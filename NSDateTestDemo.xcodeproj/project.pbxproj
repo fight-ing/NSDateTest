@@ -457,6 +457,7 @@
 				A5AA2A1A197CAF11003C06D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5AA2A1B197CAF11003C06D2 /* Build configuration list for PBXNativeTarget "NSDateTestDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +466,7 @@
 				A5AA2A1D197CAF11003C06D2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
